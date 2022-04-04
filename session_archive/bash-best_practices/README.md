@@ -25,13 +25,6 @@ For now, see <https://github.com/bertvv/dotfiles/blob/master/.vim/templates/sh>
 - Bash-script-template <https://github.com/ralish/Bash-script-template>
 - Bash3 Boilerplate <http://Bash3boilerplate.sh/>
 
-### Portable shell scripts
-
-- <https://wiki.ubuntu.com/DashAsBinSh>
-- <http://pubs.opengroup.org/onlinepubs/009695399/utilities/contents.html>
-- <http://sites.harvard.edu/~lib113/reference/unix/portable_scripting.html>
-- <https://www.gnu.org/software/autoconf/manual/autoconf.html#Portable-Shell>
-
 ## Resources
 
 - Araps, Dylan (2018). *Pure Bash Bible.* <https://github.com/dylanaraps/pure-Bash-bible>
